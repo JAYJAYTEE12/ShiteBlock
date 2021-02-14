@@ -1,0 +1,7 @@
+name: ShiteBlock
+version: ${project.version}
+main: com.jayjaytee.ripoff.skyblock.shiteblock.ShiteBlock
+api-version: 1.16
+authors: [ JAYJAYTEE ]
+description: pls hypixel no lawsuit
+website: no.gov.co.uk
